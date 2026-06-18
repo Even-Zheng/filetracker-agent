@@ -1,0 +1,4 @@
+watchdog
+psutil
+pydantic
+python-magic-bin

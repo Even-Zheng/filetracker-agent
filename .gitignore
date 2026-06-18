@@ -1,0 +1,23 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 数据库文件（太大/敏感）
+data/*.db
+
+# 日志
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# 操作系统
+.DS_Store
+Thumbs.db
